@@ -26,8 +26,8 @@ ShowOtherUnits = true;
 // degrees.
 
 // Default center of the map.
-DefaultCenterLat = 52.085624;
-DefaultCenterLon = 5.0890591;
+DefaultCenterLat = 52.438791;
+DefaultCenterLon = 9.7427099;
 // The google maps zoom level, 0 - 16, lower is further out
 DefaultZoomLvl   = 7;
 
