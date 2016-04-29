@@ -46,8 +46,10 @@ FIX_CRC="yes"
 AGGRESSIVE="no"
 
 # If set, supplies a reference location for local position decoding.
-LAT="52.085624"
-LON="5.0890591"
+# Langenhagen, Germany
+LAT="52.438791472785255"
+LON="9.742709999999988"
+
 
 # If set, provides the absolute maximum receiver range used to
 # filter bad position reports, and to determine when local position
