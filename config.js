@@ -35,8 +35,9 @@ DefaultZoomLvl   = 7;
 // that location is used and these settings are ignored.
 
 SiteShow    = true;            // true to show a center marker
-SiteLat     = 52.085624;       // position of the marker
-SiteLon     = 5.0890591;
+SiteLat     = 52.438791;       // position of the marker
+SiteLon     = 9.7427099;
+
 SiteName    = "My Radar Site"; // tooltip of the marker
 
 // User Map (KML File)
