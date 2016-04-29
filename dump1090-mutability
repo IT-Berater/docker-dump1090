@@ -47,9 +47,8 @@ AGGRESSIVE="no"
 
 # If set, supplies a reference location for local position decoding.
 # Langenhagen, Germany
-LAT="52.438791472785255"
-LON="9.742709999999988"
-
+LAT="52.438791"
+LON="9.7427099"
 
 # If set, provides the absolute maximum receiver range used to
 # filter bad position reports, and to determine when local position
